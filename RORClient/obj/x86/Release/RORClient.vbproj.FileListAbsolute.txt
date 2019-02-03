@@ -1,0 +1,10 @@
+D:\Dev\Git\RORClient\RORClient\bin\Release\RORClient.exe.config
+D:\Dev\Git\RORClient\RORClient\bin\Release\RORClient.exe
+D:\Dev\Git\RORClient\RORClient\bin\Release\RORClient.pdb
+D:\Dev\Git\RORClient\RORClient\bin\Release\RORClient.xml
+D:\Dev\Git\RORClient\RORClient\obj\x86\Release\ASCOM.TriStar.frmMain.resources
+D:\Dev\Git\RORClient\RORClient\obj\x86\Release\ASCOM.TriStar.Resources.resources
+D:\Dev\Git\RORClient\RORClient\obj\x86\Release\RORClient.vbproj.GenerateResource.Cache
+D:\Dev\Git\RORClient\RORClient\obj\x86\Release\RORClient.exe
+D:\Dev\Git\RORClient\RORClient\obj\x86\Release\RORClient.xml
+D:\Dev\Git\RORClient\RORClient\obj\x86\Release\RORClient.pdb

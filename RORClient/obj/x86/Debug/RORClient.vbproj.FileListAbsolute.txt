@@ -1,0 +1,11 @@
+C:\Users\EorEquis\AppData\Local\Temporary Projects\RORClient\bin\Debug\ASCOM.TriStar.Test.exe.config
+D:\Dev\Git\RORClient\RORClient\bin\Debug\RORClient.exe.config
+D:\Dev\Git\RORClient\RORClient\bin\Debug\RORClient.exe
+D:\Dev\Git\RORClient\RORClient\bin\Debug\RORClient.pdb
+D:\Dev\Git\RORClient\RORClient\bin\Debug\RORClient.xml
+D:\Dev\Git\RORClient\RORClient\obj\x86\Debug\ASCOM.TriStar.frmMain.resources
+D:\Dev\Git\RORClient\RORClient\obj\x86\Debug\ASCOM.TriStar.Resources.resources
+D:\Dev\Git\RORClient\RORClient\obj\x86\Debug\RORClient.vbproj.GenerateResource.Cache
+D:\Dev\Git\RORClient\RORClient\obj\x86\Debug\RORClient.exe
+D:\Dev\Git\RORClient\RORClient\obj\x86\Debug\RORClient.xml
+D:\Dev\Git\RORClient\RORClient\obj\x86\Debug\RORClient.pdb
